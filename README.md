@@ -1,0 +1,1 @@
+# RAG-based-QA-bot-using-Pinecone-and-OpenAI-GPT-3.5-Turbo-
